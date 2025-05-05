@@ -15,7 +15,15 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Video link: <div>
+    <a href="https://www.loom.com/share/354d1f930fe4479d8e41d52781cf8fdf">
+    </a>
+    <a href="https://www.loom.com/share/354d1f930fe4479d8e41d52781cf8fdf">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/354d1f930fe4479d8e41d52781cf8fdf-3260046096f7aa2a-full-play.gif">
+    </a>
+  </div>
+
+just in case the above link doesn't work: https://www.loom.com/share/354d1f930fe4479d8e41d52781cf8fdf?sid=de2cee8c-a5d5-4339-b23c-85f0cf2359b5
 
 ## App Brainstorming 
 
