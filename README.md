@@ -23,7 +23,7 @@ Video link: <div>
     </a>
   </div>
 
-just in case the above link doesn't work: https://www.loom.com/share/354d1f930fe4479d8e41d52781cf8fdf?sid=de2cee8c-a5d5-4339-b23c-85f0cf2359b5
+ https://www.loom.com/share/354d1f930fe4479d8e41d52781cf8fdf?sid=de2cee8c-a5d5-4339-b23c-85f0cf2359b5
 
 ## App Brainstorming 
 
